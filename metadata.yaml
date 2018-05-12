@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43668'
     url: http://www.gutenberg.org/2009/agents/43668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46112#The-Dark-Agesand-Other-Poems
 gutenberg_issued: '2014-06-27'
 gutenberg_type: Text
 identifiers:
